@@ -1,0 +1,134 @@
+
+.h1 {
+   text-align: center;
+   font-size: xx-large;
+   text-decoration: underline;
+}
+
+.h-2 {
+  color: orange;
+   font-weight: bolder;
+
+}
+
+.personal {
+    border: 5px outset red;
+    background-color: lightblue; 
+    width: 50%;
+    height: 100%;
+    float: right;  
+}
+
+.professional {
+    border: 5px outset purple;
+    background-color: yellow;
+    width: 48.7%;
+    height: 100%;
+    float: left;   
+}
+
+h2 {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#s2 {
+  color: black;
+  text-align: left;
+  font-weight: bold;
+}
+  
+#s1 {
+  color: black ;
+  font-weight: bold;
+  text-align: left;
+}
+
+#s-1 {
+  color: black ;
+  font-weight: bold;
+  text-align: left;
+  font-size: x-large;
+}
+
+body hr.first{
+    background: linear-gradient(to left, green, violet, purple, blue, orange, yellow);
+    height:10px; 
+}
+
+body hr.second{
+    background: linear-gradient(to right, green, blue);
+    height: 10px; 
+}
+    
+.mine{
+    float: initial;
+    border: 5px solid lightseagreen;
+}
+
+table, th, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-size: x-large;
+  }
+
+th, td {
+    padding: 15px;
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+  }
+
+ .tr1 :hover { background-color: coral;}
+
+p {
+    color: goldenrod;
+    background-color: black;
+    font-weight: bold;
+    font-size: large;
+  }
+
+a {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+.portfolio {
+    border: 5px outset yellow;
+    background-color: purple;   
+}
+
+.h-1 {
+  color: brown;
+  text-align: center;
+  font-size: xx-large;
+  text-decoration: underline;     
+}
+
+.hr1{
+  background: linear-gradient(to right, red, green);
+  height: 10px;
+}
+
+body .porth2 {
+  text-align: center;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+img {
+  border-radius: 8px;
+}
+
+
+  
+
+  
